@@ -28,23 +28,23 @@
     "imageSrc": "projects/project.png",
     "description": "A personal portfolio website showcasing my projects, skills, and experience.",
     "skills": ["React", "TypeScript", "Vite","shadcn-ui","Tailwind CSS"],
-    "demo": "https://my-portfolio.lovable.app/",
-    "source": "https://github.com/FathimaShifana586/my-portfolio"
+    "demo": "https://fshifana-portfolio.netlify.app/",
+    "source": "https://github.com/FathimaShifana586/My-Portfolio"
   },
   {
     "title": "Created Automated Test Cases for Royal Commission of AlUla Portal",
     "imageSrc": "projects/project.png",
     "description": "Developed a suite of automated test cases for the Royal Commission of AlUla portal to ensure high-quality user experiences.",
     "skills": ["Playwright", "TypeScript", "Artillery"],
-    "demo": "https://my-portfolio.lovable.app/",
-    "source": "https://github.com/FathimaShifana586/my-portfolio"
+    "demo": "",
+    "source": ""
   },
   {
     "title": "Created Automated Test Cases for Al Balad Historic Jeddah -JHD  Portal",
     "imageSrc": "projects/project.png",
     "description": "Developed a suite of automated test cases for the Al Balad Historic Jeddah -JHD Portal to ensure high-quality user experiences.",
     "skills": ["Playwright", "TypeScript", "Artillery"],
-    "demo": "https://my-portfolio.lovable.app/",
-    "source": "https://github.com/FathimaShifana586/my-portfolio"
+    "demo": "",
+    "source": ""
   }
 ]

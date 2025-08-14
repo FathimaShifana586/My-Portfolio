@@ -1,7 +1,7 @@
 [
   {
     "role": "Software Test Engineer",
-    "organisation": "GeoTechOverseas",
+    "organisation": "GeoTechOverseas , Riyadh, Saudi Arabia.",
     "startDate": "Jan, 2025",
     "endDate": "Present",
     "experiences": ["Built automated tests with Playwright/TypeScript and performed load testing with Artillery.","Used modern scripting as a Creative Technologist to optimize QA workflows"],
@@ -9,20 +9,20 @@
   },
   {
     "role": "Qa/Qc Engineer",
-    "organisation": "GeoTechOverseas",
+    "organisation": "GeoTechOverseas , Riyadh, Saudi Arabia.",
     "startDate": "July, 2024",
-    "endDate": "Dec, 2022",
-    "experiences": ["Manual Testing & Bug Reporting","Collaboration & Handled RCU Portal"],
+    "endDate": "Dec, 2024",
+    "experiences": ["Conducted manual testing and reported bugs.","Collaborated with teams and managed RCU Portal testing."],
     "imageSrc": "history/gtoLogo.png"
   },
   {
     "role": "Bachelor of Electronics and Communication Engineering",
-    "organisation": "Syed Ammal Engineering College",
+    "organisation": "Anna University, Chennai, India.",
+
     "startDate": "Aug, 2018",
     "endDate": "Jun, 2022",
     "experiences": [
       "Graduated with First Class Honors, achieving a CGPA of 8.1."
-
     ],
     "imageSrc": "history/SAEC.png"
   }
