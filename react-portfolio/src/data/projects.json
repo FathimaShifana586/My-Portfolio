@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Weather-ella",
+    "imageSrc": "projects/project.png",
+    "description": "A sleek, AI-powered weather app built with Lovable, providing real-time forecasts, location-based updates, and a simple, beautiful interface for quick and reliable weather insights.",
+    "skills": ["React", "TypeScript", "Vite","shadcn-ui","Tailwind CSS"],
+    "demo": "https://weather-ella.lovable.app/",
+    "source": "https://github.com/FathimaShifana586/weather-ella"
+  },
+  {
+    "title": "Our-House-Expense",
+    "imageSrc": "projects/project.png",
+    "description": "A comprehensive expense tracking app designed to help users manage their household budgets effectively.",
+    "skills": ["React", "TypeScript", "Vite","shadcn-ui","Tailwind CSS"],
+    "demo": "https://our-house-expense.lovable.app/",
+    "source": "https://github.com/FathimaShifana586/our-house-expense"
+  },
+  {
+    "title": "Angular Directives Tutorial",
+    "imageSrc": "projects/project.png",
+    "description": "A project created to learn Angular by building a comprehensive tutorial on directives.",
+    "skills": ["Angular", "TypeScript"],
+    "demo": "https://angular-directives-tutorial.lovable.app/",
+    "source": "https://github.com/FathimaShifana586/angular-directives-tutorials"
+  },
+  {
+    "title": "My Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "A personal portfolio website showcasing my projects, skills, and experience.",
+    "skills": ["React", "TypeScript", "Vite","shadcn-ui","Tailwind CSS"],
+    "demo": "https://my-portfolio.lovable.app/",
+    "source": "https://github.com/FathimaShifana586/my-portfolio"
+  },
+  {
+    "title": "Created Automated Test Cases for Royal Commission of AlUla Portal",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a suite of automated test cases for the Royal Commission of AlUla portal to ensure high-quality user experiences.",
+    "skills": ["Playwright", "TypeScript", "Artillery"],
+    "demo": "https://my-portfolio.lovable.app/",
+    "source": "https://github.com/FathimaShifana586/my-portfolio"
+  },
+  {
+    "title": "Created Automated Test Cases for Al Balad Historic Jeddah -JHD  Portal",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a suite of automated test cases for the Al Balad Historic Jeddah -JHD Portal to ensure high-quality user experiences.",
+    "skills": ["Playwright", "TypeScript", "Artillery"],
+    "demo": "https://my-portfolio.lovable.app/",
+    "source": "https://github.com/FathimaShifana586/my-portfolio"
+  }
+]

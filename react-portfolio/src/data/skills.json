@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/Angular.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "Playwright",
+    "imageSrc": "skills/playwright.png"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "skills/Typescript.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postmanapi.png"
+  }
+]
